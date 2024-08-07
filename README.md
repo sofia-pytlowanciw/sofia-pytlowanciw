@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil
 
-meu nome é Sofia Pytlowanciw
+meu nome é Sofia Pytlowanciw🫀
 
 -estou estudando na [alura](https://www.alura.com.br)
 -estou me desenvolvendo na linguagem javascript
