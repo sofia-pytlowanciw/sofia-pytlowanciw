@@ -12,4 +12,5 @@ meu nome é Sofia Pytlowanciw
 
 sofiapytlowanciw
 
+![](https://media1.tenor.com/m/mWSZA4fyI7AAAAAd/waving-barbie.gif)
   
