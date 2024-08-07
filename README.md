@@ -2,7 +2,7 @@
 
 meu nome é Sofia Pytlowanciw
 
--estou estudando na alura
+-estou estudando na [alura](https://www.alura.com.br)
 -estou me desenvolvendo na linguagem javascript
 -utlilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
